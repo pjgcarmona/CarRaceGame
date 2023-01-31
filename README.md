@@ -20,6 +20,9 @@ Go to the [Releases](https://github.com/pjgcarmona/CarRaceGame/releases) to down
 Use the arrows to play:
 
 up - increase speed
+
 down - to brake
+
 left - move left
+
 right - move right
